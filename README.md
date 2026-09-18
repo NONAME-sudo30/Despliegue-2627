@@ -8,4 +8,4 @@
 
 4.-Versión: 22.04 LIVE SERVER UBUNTU 
 
-# H1 Pruebas de Instalación Ubuntu Server(Primer VPS)#
+#  Pruebas de Instalación Ubuntu Server(Primer VPS)#
