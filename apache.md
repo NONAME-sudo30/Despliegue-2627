@@ -10,3 +10,11 @@ APACHE INSTALADO EN EL EQUIPO--
 
 <img width="897" height="132" alt="image" src="https://github.com/user-attachments/assets/c84ded5d-aa2c-4262-b240-407b3f43f99a" />
 
+
+## NAVEGADOR
+
+Accedí desde el navegador del host a la dirección IP del servidor Ubuntu para comprobar el funcionamiento de Apache. 
+
+Al escribir la IP en la barra de direcciones, se mostró correctamente la página por defecto de Apache2.
+<img width="762" height="378" alt="image" src="https://github.com/user-attachments/assets/6fe0e066-a019-465d-a4ad-dc422a02e689" />
+
