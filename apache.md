@@ -9,16 +9,26 @@ Su función es recibir las peticiones de los usuarios desde un navegador y envia
 
 Donde esta mi VPS:
 ┌─────────────────┐
+
 │    Windows 11   │
+
 │   PowerShell    │
+
 └────────┬────────┘
          │
+         
          │ ssh luismi@192.168.1.38
          │
+         
          ▼
 ┌─────────────────┐
+
 │ Ubuntu Server   │
+
 │ Host: Luismi    │
+
+
 │ IP:192.168.1.38 │
+
 │ SSH: Puerto 22  │
 └─────────────────┘
