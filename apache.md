@@ -6,29 +6,7 @@ Recibe las peticiones de los navegadores y entrega el contenido solicitado, como
 Apache HTTP Server (o simplemente Apache) es uno de los servidores web más utilizados del mundo.
 
 Su función es recibir las peticiones de los usuarios desde un navegador y enviarles las páginas web correspondientes.
+APACHE INSTALADO EN EL EQUIPO--
 
-Donde esta mi VPS:
-┌─────────────────┐
+<img width="897" height="132" alt="image" src="https://github.com/user-attachments/assets/c84ded5d-aa2c-4262-b240-407b3f43f99a" />
 
-│    Windows 11   │
-
-│   PowerShell    │
-
-└────────┬────────┘
-         │
-         
-         │ ssh luismi@192.168.1.38
-         │
-         
-         ▼
-┌─────────────────┐
-
-│ Ubuntu Server   │
-
-│ Host: Luismi    │
-
-
-│ IP:192.168.1.38 │
-
-│ SSH: Puerto 22  │
-└─────────────────┘
